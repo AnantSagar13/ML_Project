@@ -1,5 +1,6 @@
-# ML_Project
-Quantitative Trading using ML Algorithms
+# Machine Learning Project
+# Quantitative Trading using ML Algorithms
+
 
 EDA: Elementary Data Analysis
 
